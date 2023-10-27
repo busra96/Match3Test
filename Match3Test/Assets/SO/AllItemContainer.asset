@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a741f8d6ba363944966d64801822248, type: 3}
+  m_Name: AllItemContainer
+  m_EditorClassIdentifier: 
+  Tile: {fileID: 1417686175906755785, guid: a88c8b970fa6271449bc46cd70fa8039, type: 3}
+  DropItemList:
+  - {fileID: 8138913129882333344, guid: 898ef5c000171f9409f6ffdeb6e093a6, type: 3}
+  - {fileID: 5241623388022629887, guid: 725b98dce03527d4daf905a6d86fa40e, type: 3}
+  - {fileID: 4472983945972935248, guid: fe377dc4de01a9b40895ef8b9b6d9d24, type: 3}
+  - {fileID: 7849668941383213332, guid: f4fa81fda911d8c46afa30cea6e4e48c, type: 3}
